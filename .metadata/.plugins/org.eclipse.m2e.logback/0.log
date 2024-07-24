@@ -1,0 +1,15 @@
+2024-07-24 10:11:25,114 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 10:11:53,782 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:student-management-system:0.0.1-SNAPSHOT @ D:\WS_WebAppSb\student-management-system-springboot\pom.xml.
+2024-07-24 10:11:55,416 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-system-springboot/src/main/java
+2024-07-24 10:11:55,416 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-system-springboot/src/main/resources
+2024-07-24 10:11:55,419 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-system-springboot/src/main/resources
+2024-07-24 10:11:55,423 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-system-springboot/src/test/java
+2024-07-24 10:11:55,423 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-system-springboot/src/test/resources
+2024-07-24 10:11:55,740 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-07-24 10:11:57,522 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-24 10:11:57,541 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2024-07-24 10:11:57,550 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\WS_WebAppSb\student-management-system-springboot\src\test\resources
+2024-07-24 21:53:06,404 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-24 22:02:12,346 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-24 22:02:12,441 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2024-07-24 22:02:12,477 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\WS_WebAppSb\student-management-system-springboot\src\test\resources
